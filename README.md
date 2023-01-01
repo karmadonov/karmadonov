@@ -1,3 +1,3 @@
 Coding Ninja
 
-Matodon: [@kirill@mastodon.social](https://mastodon.social/@kirill)
+Mastodon: [@kirill@mastodon.social](https://mastodon.social/@kirill)
